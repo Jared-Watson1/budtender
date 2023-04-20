@@ -1,0 +1,5 @@
+openai
+openai[embeddings]
+pandas
+python-dotenv
+discord
